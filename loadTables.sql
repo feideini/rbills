@@ -1,0 +1,13 @@
+truncate table properties;
+load data local infile 'properties.csv' into table properties fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';
+truncate table rentalUnits;
+load data local infile 'rentalUnits.csv' into table rentalUnits fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';
+truncate table renters;
+load data local infile 'renters.csv' into table renters fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';
+truncate table stateItems;
+load data local infile 'stateItems.csv' into table stateItems fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';
+truncate table utilities;
+load data local infile 'utilities.csv' into table utilities fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';
+truncate table login;
+load data local infile 'login.csv' into table login fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';
+load data local infile 'months.csv' into table months fields terminated by ',' enclosed by '' escaped by '\\' lines terminated by '\n' starting by '';

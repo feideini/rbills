@@ -1,0 +1,12 @@
+To access your rental bills please go to
+
+http://ec2-35-160-211-119.us-west-2.compute.amazonaws.com/lpublic/rbills/login.php
+
+your login information is username SpargurMiller password avohkuya
+
+the Total Payable is always at the bottom of the file in red.
+
+I will send you a reminder at the end of every month to check your balance and write a cheque/send an EMT transfer.
+
+Stefan
+
