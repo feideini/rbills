@@ -744,6 +744,7 @@ acct,year,mt,da,biller,amount,conf
 5611,2017,09,15,Telus,346.95,08318I
 5611,2017,10,18,Telus,171.56,03618I
 5611,2017,11,15,Telus,168.71,96522I
+5611,2017,11,29,Telus,201.12,07846I
 5684,2010,01,31,HomeDepotSherry,1425.42,0000
 5728,2012,06,17,TD Meloche Monnex Jenish,1150.00,
 5728,2013,06,17,TD Meloche Monnex Jenish,1351.00,
@@ -761,6 +762,7 @@ acct,year,mt,da,biller,amount,conf
 6163,2017,09,13,PresidentsChoice,24.59,L4A8Q7
 6163,2017,10,18,PresidentsChoice,0.28,U7Y5R3
 6163,2017,11,09,PresidentsChoice,1706.36,Y6Y6J5
+6163,2017,12,05,PresidentsChoice,95.28,W4X3H2
 6211,2007,08,28,Citibank,322.93,3907
 6211,2007,10,28,Citibank,80.07,2246
 6211,2007,11,29,Citibank,47.51,6312
@@ -1025,6 +1027,7 @@ acct,year,mt,da,biller,amount,conf
 7170,2017,09,05,Terasen20,45.43,L4A8Q6
 7170,2017,10,02,Terasen20,37.41,Y2H7K3
 7170,2017,11,02,Terasen20,66.87,U7Y5Q8
+7170,2017,12,04,Terasen20,141.19,W4X3A9
 7324,2013,10,11,PresidentsChoice,3773.60,Y9U7R2
 7324,2013,11,14,PresidentsChoice,679.78,Z3U9Q7
 7324,2013,12,13,PresidentsChoice,789.45,K9Q7Y8
@@ -1139,6 +1142,7 @@ acct,year,mt,da,biller,amount,conf
 8187,2017,06,01,BCHydro20,85.27,X9Z4U3
 8187,2017,08,03,BCHydro20,111.45,L2L9A9
 8187,2017,10,02,BCHydro20,123.36,Y2H6Z7
+8187,2017,12,04,BCHydro20,147.26,W4X3A8
 8335,2016,10,26,Capital One Costco MasterCard,1693.11,X3J4R8,last four digits on account statements is 4336
 8335,2016,11,25,Capital One Costco MasterCard,1400.09,L2K8R2
 8335,2016,12,30,Capital One Costco MasterCard,1572.25,L7A4H5
@@ -1403,6 +1407,7 @@ acct,year,mt,da,biller,amount,conf
 8783,2017,09,05,RogersWirelessPager,4.20,L4A8Q8
 8783,2017,10,04,RogersWirelessPager,27.30,H7A4Y6
 8783,2017,11,03,RogersWirelessPager,2.10,U7Y5R4
+8783,2017,12,04,RogersWirelessPager,2.10,W4X3H3
 8895,2012,04,09,PresidentsChoice,4483.76,8203
 8895,2012,05,11,PresidentsChoice,6888.17,X4L5X6
 8895,2012,06,07,PresidentsChoice,2096.92,

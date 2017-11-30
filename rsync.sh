@@ -1,3 +1,5 @@
+use git from now on
+
 INSTRUCTIONS FOR ADDING A NEW RENTER
 
 add entries in login.csv and renters.csv and stateItems.csv
@@ -23,6 +25,11 @@ you may add something like
 to adjust for an odd move-in date
 
 NEW
+
+######################
+USE GIT
+######################
+
 rsync -avz -e 'ssh -i /home/stefan/gpg/aws3.pem' "/media/stefan/134578d5-ab2b-42d7-acee-ef4be0a6852c/barney/house/rbills/" ubuntu@35.160.211.119:"/home/ubuntu/www/lpublic/rbills"
 
 OLD
