@@ -127,6 +127,7 @@ acct,year,mt,da,biller,amount,conf
 0802,2017,09,29,Shaw Tischer Second,67.20,Y2H7K6
 0802,2017,10,30,Shaw Tischer Second,67.20,U7Y5R5
 0802,2017,11,29,Shaw Tischer Second,67.20,L2Q2Z5
+0802,2017,12,27,Shaw Tischer Second,67.20,K9J4L8
 0809,2008,05,24,BCHydro947,45.36,5063
 0809,2008,07,22,BCHydro947,54.22,0190
 0809,2008,09,25,BCHydro947,44.17,1370
@@ -179,6 +180,7 @@ acct,year,mt,da,biller,amount,conf
 0809,2016,12,23,BCHydro947,85.71,H2A2X6
 0809,2017,02,23,BCHydro947,78.45,R7Q8H8
 0809,2017,04,24,BCHydro947,86.03,Z3U4L2
+0809,2017,12,27,BCHydro947,84.89,K9J4L2
 0809,2017,06,26,BCHydro947,86.75,Q6R7U3
 0809,2017,08,25,BCHydro947,70.25,H2A3W4
 0809,2017,10,25,BCHydro947,78.91,U7Y5Q7
@@ -878,6 +880,7 @@ acct,year,mt,da,biller,amount,conf
 6791,2017,09,25,Terasen1452,44.19,Y2H7K5
 6791,2017,10,26,Terasen1452,110.08,U7Y5R2
 6791,2017,11,27,Terasen1452,183.65,L2Q2Z4
+6791,2017,12,27,Terasen1452,237.33,K9J4L6
 6888,2013,06,17,TDInsuranceMelocheMonnex,1351.00,W8R6R5
 6888,2014,06,11,TDInsuranceMelocheMonnex,1475.00,H8R6Y3
 6888,2015,06,13,TDInsuranceMelocheMonnex,1664.00,K5Q3X8
@@ -1030,6 +1033,7 @@ acct,year,mt,da,biller,amount,conf
 7170,2017,10,02,Terasen20,37.41,Y2H7K3
 7170,2017,11,02,Terasen20,66.87,U7Y5Q8
 7170,2017,12,04,Terasen20,141.19,W4X3A9
+7170,2017,12,27,Terasen20,172.74,K9J4L4
 7324,2013,10,11,PresidentsChoice,3773.60,Y9U7R2
 7324,2013,11,14,PresidentsChoice,679.78,Z3U9Q7
 7324,2013,12,13,PresidentsChoice,789.45,K9Q7Y8
@@ -1154,6 +1158,7 @@ acct,year,mt,da,biller,amount,conf
 8335,2017,04,25,Capital One Costco MasterCard,1035.15,Z3U5A6
 8335,2017,10,25,Capital One Costco MasterCard,1474.39,U7Y5X6,last four digits on account statements is 2330
 8335,2017,11,23,Capital One Costco MasterCard,942.84,L8A2Y8
+8335,2017,12,27,Capital One Costco MasterCard,685.82,K9J4L3
 8339,2008,02,14,Wawanesa Magnolia,688.00,axis
 8339,2008,02,14,Wawanesa Magnolia,868.00,axis
 8339,2009,02,14,Wawanesa Magnolia,954.00,axis
@@ -1268,6 +1273,7 @@ acct,year,mt,da,biller,amount,conf
 8549,2017,09,18,Terasen947,30.52,Y2H7K4
 8549,2017,10,19,Terasen947,35.09,U7Y5Q9
 8549,2017,11,17,Terasen947,73.25,L2Q2Z3
+8549,2017,12,27,Terasen947,101.59,K9J4L5
 8737,2007,08,28,Chase,4.48,602679001
 8737,2007,09,28,Chase,410.67,690769001
 8737,2007,11,15,Chase,910.89,872919601
@@ -1410,6 +1416,7 @@ acct,year,mt,da,biller,amount,conf
 8783,2017,10,04,RogersWirelessPager,27.30,H7A4Y6
 8783,2017,11,03,RogersWirelessPager,2.10,U7Y5R4
 8783,2017,12,04,RogersWirelessPager,2.10,W4X3H3
+8783,2018,01,03,RogersWirelessPager,27.30,K9J4L7
 8895,2012,04,09,PresidentsChoice,4483.76,8203
 8895,2012,05,11,PresidentsChoice,6888.17,X4L5X6
 8895,2012,06,07,PresidentsChoice,2096.92,
@@ -1509,6 +1516,7 @@ acct,year,mt,da,biller,amount,conf
 9345,2017,07,26,Citibank,7.83,L2L9A3
 9345,2017,08,25,Citibank,7.83,L2L9A3
 9345,2017,09,27,Citibank,15.67,Y2H6X2
+9345,2017,12,27,Citibank,15.67,K9J3W6
 9728,2014,02,24,Amazon Canada,122.59,Q5W6X3
 9728,2014,04,14,Amazon Canada,104.22,R8J5X7
 9728,2014,05,15,Amazon Canada,68.82,L5Z8W4
