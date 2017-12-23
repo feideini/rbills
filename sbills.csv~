@@ -1517,7 +1517,6 @@ acct,year,mt,da,biller,amount,conf
 9345,2017,08,25,Citibank,7.83,L2L9A3
 9345,2017,09,27,Citibank,15.67,Y2H6X2
 9345,2017,12,27,Citibank,15.67,K9J3W6
-9345,2017,12,27,Citibank,15.67,K9J3W5,accidentally paid this twice
 9728,2014,02,24,Amazon Canada,122.59,Q5W6X3
 9728,2014,04,14,Amazon Canada,104.22,R8J5X7
 9728,2014,05,15,Amazon Canada,68.82,L5Z8W4
