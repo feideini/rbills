@@ -117,6 +117,7 @@ acct,year,mt,da,biller,amount,conf
 0395,2017,07,31,BCHydro1452,176.67,L2L9A5
 0395,2017,09,29,BCHydro1452,169.79,Y2H6Y7
 0395,2017,11,29,BCHydro1452,236.52,L2Q2Z2
+0395,2018,01,28,BCHydro1452,290.75,X7K9H6
 0420,2017,03,28,Chase,100.68,wellsfargo 79S3R444,formerly 0190
 0420,2017,05,24,Chase,9.25,wellsfargo 19D3Z5YP,from now on 1998
 0513,2015,08,04,Amazon Web Services,15.70,automatic
@@ -128,6 +129,7 @@ acct,year,mt,da,biller,amount,conf
 0802,2017,10,30,Shaw Tischer Second,67.20,U7Y5R5
 0802,2017,11,29,Shaw Tischer Second,67.20,L2Q2Z5
 0802,2017,12,27,Shaw Tischer Second,67.20,K9J4L8
+0802,2018,01,30,Shaw Tischer Second,67.20,X7K9J2
 0809,2008,05,24,BCHydro947,45.36,5063
 0809,2008,07,22,BCHydro947,54.22,0190
 0809,2008,09,25,BCHydro947,44.17,1370
@@ -276,6 +278,7 @@ acct,year,mt,da,biller,amount,conf
 2129,2017,09,27,Chase,2676.12,wellsfargo Z9X3B8SQ
 2129,2017,11,28,Chase,267.90,wellsfargo 3953LK38
 2129,2017,12,27,Chase,122.97,wellsfargo 3973ZYLX
+2129,2018,01,29,Chase,3770.09,wellsfargo 69W3RX81
 2208,2007,08,29,Shaw,49.69,6541
 2208,2007,09,28,Shaw,49.69,0621
 2208,2007,10,29,Shaw,49.69,2241
@@ -750,6 +753,7 @@ acct,year,mt,da,biller,amount,conf
 5611,2017,10,18,Telus,171.56,03618I
 5611,2017,11,15,Telus,168.71,96522I
 5611,2017,11,29,Telus,201.12,07846I
+5611,2018,01,15,Telus,173.18,08454I
 5684,2010,01,31,HomeDepotSherry,1425.42,0000
 5728,2012,06,17,TD Meloche Monnex Jenish,1150.00,
 5728,2013,06,17,TD Meloche Monnex Jenish,1351.00,
@@ -768,6 +772,7 @@ acct,year,mt,da,biller,amount,conf
 6163,2017,10,18,PresidentsChoice,0.28,U7Y5R3
 6163,2017,11,09,PresidentsChoice,1706.36,Y6Y6J5
 6163,2017,12,05,PresidentsChoice,95.28,W4X3H2
+6163,2018,01,15,PresidentsChoice,170.41,X7K9H9
 6211,2007,08,28,Citibank,322.93,3907
 6211,2007,10,28,Citibank,80.07,2246
 6211,2007,11,29,Citibank,47.51,6312
@@ -882,6 +887,7 @@ acct,year,mt,da,biller,amount,conf
 6791,2017,10,26,Terasen1452,110.08,U7Y5R2
 6791,2017,11,27,Terasen1452,183.65,L2Q2Z4
 6791,2017,12,27,Terasen1452,237.33,K9J4L6
+6791,2018,01,29,Terasen1452,262.41,X7K9H8
 6888,2013,06,17,TDInsuranceMelocheMonnex,1351.00,W8R6R5
 6888,2014,06,11,TDInsuranceMelocheMonnex,1475.00,H8R6Y3
 6888,2015,06,13,TDInsuranceMelocheMonnex,1664.00,K5Q3X8
@@ -1160,6 +1166,7 @@ acct,year,mt,da,biller,amount,conf
 8335,2017,10,25,Capital One Costco MasterCard,1474.39,U7Y5X6,last four digits on account statements is 2330
 8335,2017,11,23,Capital One Costco MasterCard,942.84,L8A2Y8
 8335,2017,12,27,Capital One Costco MasterCard,685.82,K9J4L3
+8335,2018,01,22,Capital One Costco MasterCard,2059.89,Z2Y6A7
 8339,2008,02,14,Wawanesa Magnolia,688.00,axis
 8339,2008,02,14,Wawanesa Magnolia,868.00,axis
 8339,2009,02,14,Wawanesa Magnolia,954.00,axis
@@ -1275,6 +1282,7 @@ acct,year,mt,da,biller,amount,conf
 8549,2017,10,19,Terasen947,35.09,U7Y5Q9
 8549,2017,11,17,Terasen947,73.25,L2Q2Z3
 8549,2017,12,27,Terasen947,101.59,K9J4L5
+8549,2018,01,19,Terasen947,145.02,X7K9H7
 8737,2007,08,28,Chase,4.48,602679001
 8737,2007,09,28,Chase,410.67,690769001
 8737,2007,11,15,Chase,910.89,872919601
