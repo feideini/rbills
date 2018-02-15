@@ -591,6 +591,7 @@ acct,year,mt,da,biller,amount,conf
 4607,2017,10,29,TD Visa,4166.71,easyweb transfer LR404
 4607,2017,12,02,TD Visa,4736.42,easyweb transfer UO232
 4607,2018,01,02,TD Visa,8563.89,easyweb transfer WQ532
+4607,2018,02,01,TD Visa,3624.99,easyweb transfer IL022
 4625,2007,09,19,TDLOC,166.44,2212
 4625,2007,10,19,TDLOC,239.66,2212
 4625,2007,11,29,TDLOC,247.84,6307
@@ -1182,7 +1183,7 @@ acct,year,mt,da,biller,amount,conf
 8339,2015,02,14,Wawanesa Magnolia,1289.00,axis
 8339,2016,02,09,Wawanesa Magnolia,1350.00,axis
 8339,2017,02,14,Wawanesa Magnolia,1403.00,axis
-8339,2018,01,30,Wawanesa Magnolia,1524.00,axis,not paid yet
+8339,2018,01,30,Wawanesa Magnolia,1446.00,axis
 8549,2008,05,20,Terasen947,122.53,5066
 8549,2008,06,21,Terasen947,97.57,2629
 8549,2008,07,18,Terasen947,37.74,0196
