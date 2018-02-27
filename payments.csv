@@ -6,7 +6,8 @@ month,rentid,name,amount
 2018-02,1024,saunders,2495.02
 2018-02,1028,jbermeo,3169
 2018-02,1029,avozna,0
-2018-02,1030,suud,1020 remember $30 for wifi
+2018-02,1030,suud,1020 remember $30 for wifi $67.20
+(/ 67.20 2)
 =======,,,
 [217]
 2017-12,1013,LangloisCrabtree,1823.14 WATER 237.64 divided by three (3 of 3)

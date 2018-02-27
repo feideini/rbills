@@ -109,6 +109,14 @@ function itemCodeToDescription($ic)
     {
       return "Landscaping";
     }
+  elseif ($ic=="TEX")
+    {
+      return "Tenant Expenses";
+    }
+  elseif ($ic=="WFI")
+    {
+      return "Wifi";
+    }
   elseif ($ic=="FMP")
     {
       return "Pre-First-Month Prorated";
