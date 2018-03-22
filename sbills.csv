@@ -118,6 +118,7 @@ acct,year,mt,da,biller,amount,conf
 0395,2017,09,29,BCHydro1452,169.79,Y2H6Y7
 0395,2017,11,29,BCHydro1452,236.52,L2Q2Z2
 0395,2018,01,28,BCHydro1452,290.75,X7K9H6
+0395,2018,04,02,BCHydro1452,322.91,Q8U8U2
 0420,2017,03,28,Chase,100.68,wellsfargo 79S3R444,formerly 0190
 0420,2017,05,24,Chase,9.25,wellsfargo 19D3Z5YP,from now on 1998
 0513,2015,08,04,Amazon Web Services,15.70,automatic
@@ -131,6 +132,7 @@ acct,year,mt,da,biller,amount,conf
 0802,2017,12,27,Shaw Tischer Second,67.20,K9J4L8
 0802,2018,01,30,Shaw Tischer Second,67.20,X7K9J2
 0802,2018,02,28,Shaw Tischer Second,67.20,Y6Z5U6
+0802,2018,04,02,Shaw Tischer Second,67.20,Q8U8U8
 0809,2008,05,24,BCHydro947,45.36,5063
 0809,2008,07,22,BCHydro947,54.22,0190
 0809,2008,09,25,BCHydro947,44.17,1370
@@ -712,6 +714,7 @@ acct,year,mt,da,biller,amount,conf
 5315,2017,04,05,City of Vancouver Utility,318.32,K7K5W3
 5315,2017,08,04,City of Vancouver Utility,327.88,A5J2L9
 5315,2017,11,28,City of Vancouver Utility,594.09,L2Q2Z6
+5315,2018,04,03,City of Vancouver Utility,296.01,Q8U8U9
 5418,2008,01,11,HBCMastercard,544.93,5474
 5418,2008,04,11,HBCMastercard,47.21,3172
 5418,2008,05,11,HBCMastercard,173.34,9386
@@ -896,6 +899,7 @@ acct,year,mt,da,biller,amount,conf
 6791,2017,12,27,Terasen1452,237.33,K9J4L6
 6791,2018,01,29,Terasen1452,262.41,X7K9H8
 6791,2018,02,28,Terasen1452,188.65,Y6Z5U3
+6791,2018,03,29,Terasen1452,276.54,Q8U8U6
 6888,2013,06,17,TDInsuranceMelocheMonnex,1351.00,W8R6R5
 6888,2014,06,11,TDInsuranceMelocheMonnex,1475.00,H8R6Y3
 6888,2015,06,13,TDInsuranceMelocheMonnex,1664.00,K5Q3X8
@@ -1051,6 +1055,7 @@ acct,year,mt,da,biller,amount,conf
 7170,2017,12,27,Terasen20,172.74,K9J4L4
 7170,2018,02,05,Terasen20,230.63,J4Z5Q4
 7170,2018,03,05,Terasen20,161.74,Y6Z5R9
+7170,2018,04,02,Terasen20,169.87,Q8U8U4
 7324,2013,10,11,PresidentsChoice,3773.60,Y9U7R2
 7324,2013,11,14,PresidentsChoice,679.78,Z3U9Q7
 7324,2013,12,13,PresidentsChoice,789.45,K9Q7Y8
@@ -1168,6 +1173,7 @@ acct,year,mt,da,biller,amount,conf
 8187,2017,10,02,BCHydro20,123.36,Y2H6Z7
 8187,2017,12,04,BCHydro20,147.26,W4X3A8
 8187,2018,02,01,BCHydro20,190.47,J4Z5Q3
+8187,2018,04,02,BCHydro20,197.63,Q8U8R9
 8335,2016,10,26,Capital One Costco MasterCard,1693.11,X3J4R8,last four digits on account statements is 4336
 8335,2016,11,25,Capital One Costco MasterCard,1400.09,L2K8R2
 8335,2016,12,30,Capital One Costco MasterCard,1572.25,L7A4H5
@@ -1180,6 +1186,7 @@ acct,year,mt,da,biller,amount,conf
 8335,2017,12,27,Capital One Costco MasterCard,685.82,K9J4L3
 8335,2018,01,22,Capital One Costco MasterCard,2059.89,Z2Y6A7
 8335,2018,02,27,Capital One Costco MasterCard,396.18,Y6Z5R8
+8335,2018,03,23,Capital One Costco MasterCard,165.67,Q8U8U3
 8339,2008,02,14,Wawanesa Magnolia,688.00,axis
 8339,2008,02,14,Wawanesa Magnolia,868.00,axis
 8339,2009,02,14,Wawanesa Magnolia,954.00,axis
@@ -1298,6 +1305,7 @@ acct,year,mt,da,biller,amount,conf
 8549,2017,12,27,Terasen947,101.59,K9J4L5
 8549,2018,01,19,Terasen947,145.02,X7K9H7
 8549,2018,02,27,Terasen947,100.76,Y6Z5U2
+8549,2018,03,22,Terasen947,114.46,Q8U8U5
 8737,2007,08,28,Chase,4.48,602679001
 8737,2007,09,28,Chase,410.67,690769001
 8737,2007,11,15,Chase,910.89,872919601
@@ -1443,6 +1451,7 @@ acct,year,mt,da,biller,amount,conf
 8783,2018,01,03,RogersWirelessPager,27.30,K9J4L7
 8783,2018,02,05,RogersWirelessPager,2.10,J4Z5Q6
 8783,2018,03,06,RogersWirelessPager,2.10,Y6Z5U5
+8783,2018,04,03,RogersWirelessPager,27.30,Q8U8U7
 8895,2012,04,09,PresidentsChoice,4483.76,8203
 8895,2012,05,11,PresidentsChoice,6888.17,X4L5X6
 8895,2012,06,07,PresidentsChoice,2096.92,
@@ -1544,6 +1553,7 @@ acct,year,mt,da,biller,amount,conf
 9345,2017,09,27,Citibank,15.67,Y2H6X2
 9345,2017,12,27,Citibank,15.67,K9J3W6
 9345,2017,12,27,Citibank,15.67,K9J3W5,accidentally paid this twice
+9345,2018,03,29,Citibank,15.67,Q8U8J2
 9728,2014,02,24,Amazon Canada,122.59,Q5W6X3
 9728,2014,04,14,Amazon Canada,104.22,R8J5X7
 9728,2014,05,15,Amazon Canada,68.82,L5Z8W4
