@@ -280,7 +280,7 @@ acct,year,mt,da,biller,amount,conf
 2129,2017,09,27,Chase,2676.12,wellsfargo Z9X3B8SQ
 2129,2017,11,28,Chase,267.90,wellsfargo 3953LK38
 2129,2017,12,27,Chase,122.97,wellsfargo 3973ZYLX
-2129,2018,01,29,Chase,3770.09,wellsfargo 69W3RX81
+2129,2018,01,29,Chase,3770.09,wellsfargo 69W3RX81,desormais 3150
 2208,2007,08,29,Shaw,49.69,6541
 2208,2007,09,28,Shaw,49.69,0621
 2208,2007,10,29,Shaw,49.69,2241
@@ -454,6 +454,7 @@ acct,year,mt,da,biller,amount,conf
 3010,2014,04,21,TimesTelecom,5.43,Y2J4R4
 3010,2014,09,29,TimesTelecom,1.30,Y2J4R4
 3010,2015,01,27,TimesTelecom,0.02,Y2A9A9
+3150,2018,03,28,Chase Visa,1796.25,wellsfargo B963DW2Z,formerly 2129
 3187,2015,12,11,Blueshore MasterCard,150.00,X2J8U9
 3187,2016,01,13,Blueshore MasterCard,2013.23,U5Z6Y2
 3187,2016,02,10,Blueshore MasterCard,2696.44,K8K7K3
@@ -594,6 +595,7 @@ acct,year,mt,da,biller,amount,conf
 4607,2017,12,02,TD Visa,4736.42,easyweb transfer UO232
 4607,2018,01,02,TD Visa,8563.89,easyweb transfer WQ532
 4607,2018,02,01,TD Visa,3624.99,easyweb transfer IL022
+4607,2018,03,02,TD Visa,13821.07,easyweb transfer JO113
 4625,2007,09,19,TDLOC,166.44,2212
 4625,2007,10,19,TDLOC,239.66,2212
 4625,2007,11,29,TDLOC,247.84,6307
@@ -1562,6 +1564,7 @@ acct,year,mt,da,biller,amount,conf
 9728,2017,03,28,Amazon Canada,179.99,R9H5J9
 9728,2017,04,12,Amazon Canada,10.00,Z3U5L4
 9728,2017,10,12,Amazon Canada,78.57,Q6W4Y9
+9728,2018,03,15,Amazon Canada,190.94,J3U9X3
 9901,2007,09,08,AmexSherry,106.00,8050
 9901,2008,05,09,AmexSherry,263.61,3353
 9902,2007,10,09,AmexStefan,134.05,1165
