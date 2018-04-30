@@ -1061,6 +1061,7 @@ acct,year,mt,da,biller,amount,conf
 7170,2018,02,05,Terasen20,230.63,J4Z5Q4
 7170,2018,03,05,Terasen20,161.74,Y6Z5R9
 7170,2018,04,02,Terasen20,169.87,Q8U8U4
+7170,2018,05,07,Terasen20,153.05,Q5A4J3
 7324,2013,10,11,PresidentsChoice,3773.60,Y9U7R2
 7324,2013,11,14,PresidentsChoice,679.78,Z3U9Q7
 7324,2013,12,13,PresidentsChoice,789.45,K9Q7Y8
@@ -1114,6 +1115,7 @@ acct,year,mt,da,biller,amount,conf
 7912,2014,01,14,HudsonsBay MasterCard,62.84,Q3X5X3
 8002,2018,03,09,PresidentsChoice,60.22,Y6Z7W9,used to be 6163
 8002,2018,04,09,PresidentsChoice,302.47,X5J6X3
+8002,2018,05,09,PresidentsChoice,31.37,Q5A4J4
 8087,2014,08,24,US Airways Barclay Card,401.36,by TD bank draft
 8187,2007,10,02,BCHydro20,155.36,0617
 8187,2007,12,03,BCHydro20,164.25,1234
@@ -1460,6 +1462,7 @@ acct,year,mt,da,biller,amount,conf
 8783,2018,02,05,RogersWirelessPager,2.10,J4Z5Q6
 8783,2018,03,06,RogersWirelessPager,2.10,Y6Z5U5
 8783,2018,04,03,RogersWirelessPager,27.30,Q8U8U7
+8783,2018,05,07,RogersWirelessPager,2.10,Q5A4J5
 8895,2012,04,09,PresidentsChoice,4483.76,8203
 8895,2012,05,11,PresidentsChoice,6888.17,X4L5X6
 8895,2012,06,07,PresidentsChoice,2096.92,
