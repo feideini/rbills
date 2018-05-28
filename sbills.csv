@@ -119,6 +119,7 @@ acct,year,mt,da,biller,amount,conf
 0395,2017,11,29,BCHydro1452,236.52,L2Q2Z2
 0395,2018,01,28,BCHydro1452,290.75,X7K9H6
 0395,2018,04,02,BCHydro1452,322.91,Q8U8U2
+0395,2018,05,30,BCHydro1452,244.68,H7H7W7
 0420,2017,03,28,Chase,100.68,wellsfargo 79S3R444,formerly 0190
 0420,2017,05,24,Chase,9.25,wellsfargo 19D3Z5YP,from now on 1998
 0513,2015,08,04,Amazon Web Services,15.70,automatic
@@ -268,6 +269,7 @@ acct,year,mt,da,biller,amount,conf
 1700,2015,12,18,SquamishDistrictUtilities,1132.35,Z8R7R5
 1700,2016,12,19,SquamishDistrictUtilities,1185.45,A9H2Z3
 1700,2017,06,28,SquamishDistrictUtilities,1237.00,A6J5W6
+1700,2018,06,25,SquamishDistrictUtilities,1252.00,H7H8L7
 1763,2008,05,01,SquamishDistrictUtilities,373.55,2158
 1763,2010,04,12,SquamishDistrictUtilities,420.22,1151
 1763,2011,04,21,SquamishDistrictUtilities,462.15,1578
@@ -277,6 +279,7 @@ acct,year,mt,da,biller,amount,conf
 1763,2015,12,18,SquamishDistrictUtilities,736.35,Z8R7K5
 1763,2016,12,16,SquamishDistrictUtilities,757.25,L2K9A5
 1763,2017,06,28,SquamishDistrictUtilities,779.00,A6J5W7
+1763,2018,06,25,SquamishDistrictUtilities,786.00,H7H8L8
 1998,2017,06,28,Chase,1696.87,wellsfargo J9K3JGWQ,formerly 0420
 1998,2017,07,28,Chase,1631.48,wellsfargo T9834HQH,desormais 2129
 2129,2017,08,29,Chase,1204.61,wellsfargo V963Q7QM,formerly 1998
@@ -770,6 +773,7 @@ acct,year,mt,da,biller,amount,conf
 5611,2018,01,30,Telus,181.41,06038I
 5611,2018,04,04,Telus,342.63,07402I
 5611,2018,05,17,Telus,159.73,07635I
+5611,2018,05,28,Telus,194.27,02771I
 5684,2010,01,31,HomeDepotSherry,1425.42,0000
 5728,2012,06,17,TD Meloche Monnex Jenish,1150.00,
 5728,2013,06,17,TD Meloche Monnex Jenish,1351.00,
@@ -925,6 +929,7 @@ acct,year,mt,da,biller,amount,conf
 7023,2015,06,26,SquamishDistrictPropertyTax,3041.15,Z8R7K4
 7023,2016,06,27,SquamishDistrictPropertyTax,3340.67,A9H2W6
 7023,2017,06,28,SquamishDistrictPropertyTax,3652.04,A6J5W5
+7023,2017,06,25,SquamishDistrictPropertyTax,3634.75,H7H8L6
 7031,2009,08,14,CityofVancouverTaxesJenish,28.50,2033
 7031,2012,06,29,CityofVancouverTaxesJenish,3042.61,
 7031,2013,06,25,CityofVancouverTaxesJenish,3074.57,W8R5Y7
@@ -936,6 +941,7 @@ acct,year,mt,da,biller,amount,conf
 7031,2017,01,25,CityofVancouverTaxesJenish,2922.00,U7A3J4
 7031,2017,06,28,CityofVancouverTaxesJenish,2971.29,A6J5W8
 7031,2018,01,23,CityofVancouverTaxesJenish,2947.00,L8A3U7
+7031,2018,06,25,CityofVancouverTaxesJenish,3711.12,H7H8L9
 7170,2007,09,02,Terasen20,47.52,6607
 7170,2007,10,01,Terasen20,51.19,0624
 7170,2007,10,31,Terasen20,79.30,3057
@@ -1067,6 +1073,7 @@ acct,year,mt,da,biller,amount,conf
 7170,2018,03,05,Terasen20,161.74,Y6Z5R9
 7170,2018,04,02,Terasen20,169.87,Q8U8U4
 7170,2018,05,07,Terasen20,153.05,Q5A4J3
+7170,2018,06,04,Terasen20,72.52,H7H7W8
 7324,2013,10,11,PresidentsChoice,3773.60,Y9U7R2
 7324,2013,11,14,PresidentsChoice,679.78,Z3U9Q7
 7324,2013,12,13,PresidentsChoice,789.45,K9Q7Y8
@@ -1188,6 +1195,7 @@ acct,year,mt,da,biller,amount,conf
 8187,2017,12,04,BCHydro20,147.26,W4X3A8
 8187,2018,02,01,BCHydro20,190.47,J4Z5Q3
 8187,2018,04,02,BCHydro20,197.63,Q8U8R9
+8187,2018,06,01,BCHydro20,168.26,H7H7W6
 8335,2016,10,26,Capital One Costco MasterCard,1693.11,X3J4R8,last four digits on account statements is 4336
 8335,2016,11,25,Capital One Costco MasterCard,1400.09,L2K8R2
 8335,2016,12,30,Capital One Costco MasterCard,1572.25,L7A4H5
