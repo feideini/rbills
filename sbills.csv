@@ -135,6 +135,7 @@ acct,year,mt,da,biller,amount,conf
 0802,2018,02,28,Shaw Tischer Second,67.20,Y6Z5U6
 0802,2018,04,02,Shaw Tischer Second,67.20,Q8U8U8
 0802,2018,06,29,Shaw Tischer Second,1.08,R7K4K4
+0802,2018,07,30,Shaw Tischer Second,4.48,K7U7H9
 0809,2008,05,24,BCHydro947,45.36,5063
 0809,2008,07,22,BCHydro947,54.22,0190
 0809,2008,09,25,BCHydro947,44.17,1370
@@ -465,6 +466,7 @@ acct,year,mt,da,biller,amount,conf
 3150,2018,03,28,Chase Visa,1796.25,wellsfargo B963DW2Z,formerly 2129
 3150,2018,04,25,Chase Visa,362.94,wellsfargo 69Z3QN4V
 3150,2018,05,29,Chase Visa,42.29,wellsfargo Y9F3WP72
+3150,2018,07,30,Chase Visa,2665.56,wellsfargo R9G3ZQJK
 3187,2015,12,11,Blueshore MasterCard,150.00,X2J8U9
 3187,2016,01,13,Blueshore MasterCard,2013.23,U5Z6Y2
 3187,2016,02,10,Blueshore MasterCard,2696.44,K8K7K3
@@ -609,6 +611,8 @@ acct,year,mt,da,biller,amount,conf
 4607,2018,04,01,TD Visa,4918.65,easyweb transfer LC540
 4607,2018,05,02,TD Visa,7129.97,easyweb transfer HW400
 4607,2018,06,02,TD Visa,6813.01,easyweb transfer UJ322
+4607,2018,07,05,TD Visa,10777.66,easyweb transfer IH270
+4607,2018,08,01,TD Visa,6273.86,easyweb transfer HI460
 4625,2007,09,19,TDLOC,166.44,2212
 4625,2007,10,19,TDLOC,239.66,2212
 4625,2007,11,29,TDLOC,247.84,6307
@@ -777,6 +781,7 @@ acct,year,mt,da,biller,amount,conf
 5611,2018,04,04,Telus,342.63,07402I
 5611,2018,05,17,Telus,159.73,07635I
 5611,2018,05,28,Telus,194.27,02771I
+5611,2018,07,20,Telus,87.48,07083I
 5684,2010,01,31,HomeDepotSherry,1425.42,0000
 5728,2012,06,17,TD Meloche Monnex Jenish,1150.00,
 5728,2013,06,17,TD Meloche Monnex Jenish,1351.00,
@@ -917,6 +922,7 @@ acct,year,mt,da,biller,amount,conf
 6791,2018,04,30,Terasen1452,174.44,A4Q2Y9
 6791,2018,05,28,Terasen1452,99.34,X7K3W2
 6791,2018,06,25,Terasen1452,56.73,R7K4K3
+6791,2018,07,27,Terasen1452,56.21,K7U7H8
 6888,2013,06,17,TDInsuranceMelocheMonnex,1351.00,W8R6R5
 6888,2014,06,11,TDInsuranceMelocheMonnex,1475.00,H8R6Y3
 6888,2015,06,13,TDInsuranceMelocheMonnex,1664.00,K5Q3X8
@@ -1217,6 +1223,7 @@ acct,year,mt,da,biller,amount,conf
 8335,2018,04,23,Capital One Costco MasterCard,2287.38,A4Q2Y7
 8335,2018,05,22,Capital One Costco MasterCard,234.88,X7K3U8
 8335,2018,06,22,Capital One Costco MasterCard,1059.91,R7K4J9
+8335,2018,07,23,Capital One Costco MasterCard,634.54,K7U7H6
 8339,2008,02,14,Wawanesa Magnolia,688.00,axis
 8339,2008,02,14,Wawanesa Magnolia,868.00,axis
 8339,2009,02,14,Wawanesa Magnolia,954.00,axis
@@ -1339,6 +1346,7 @@ acct,year,mt,da,biller,amount,conf
 8549,2018,04,20,Terasen947,103.05,A4Q2Y8
 8549,2018,05,18,Terasen947,65.45,X7K3U9
 8549,2018,06,18,Terasen947,39.73,R7K4K2
+8549,2018,07,16,Terasen947,36.66,K7U7H7
 8737,2007,08,28,Chase,4.48,602679001
 8737,2007,09,28,Chase,410.67,690769001
 8737,2007,11,15,Chase,910.89,872919601
