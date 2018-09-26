@@ -121,6 +121,7 @@ acct,year,mt,da,biller,amount,conf
 0395,2018,04,02,BCHydro1452,322.91,Q8U8U2
 0395,2018,05,30,BCHydro1452,244.68,H7H7W7
 0395,2018,08,01,BCHydro1452,144.81,X5K3Q7
+0395,2018,10,01,BCHydro1452,69.66,J2H5W4
 0420,2017,03,28,Chase,100.68,wellsfargo 79S3R444,formerly 0190
 0420,2017,05,24,Chase,9.25,wellsfargo 19D3Z5YP,from now on 1998
 0513,2015,08,04,Amazon Web Services,15.70,automatic
@@ -258,6 +259,7 @@ acct,year,mt,da,biller,amount,conf
 1386,2017,09,06,CanadianTire,135.38,L4A8L8
 1386,2017,10,06,CanadianTire,156.59,H7A4U2
 1386,2018,09,05,CanadianTire,141.69,L4J5Z9
+1386,2018,10,09,CanadianTire,10.67,J2H5K5
 1410,2012,03,23,RonaRevyInc,1018.37,9097
 1410,2012,04,23,RonaRevyInc,2783.46,7372
 1410,2012,05,22,RonaRevyInc,421.70,K8L2H5
@@ -1101,6 +1103,7 @@ acct,year,mt,da,biller,amount,conf
 7170,2018,07,05,Terasen20,48.92,Z4X6Z7
 7170,2018,08,07,Terasen20,49.46,X5K3Q8
 7170,2018,09,04,Terasen20,35.31,L4J6Q9
+7170,2018,10,05,Terasen20,42.32,J2H5W6
 7324,2013,10,11,PresidentsChoice,3773.60,Y9U7R2
 7324,2013,11,14,PresidentsChoice,679.78,Z3U9Q7
 7324,2013,12,13,PresidentsChoice,789.45,K9Q7Y8
@@ -1228,6 +1231,7 @@ acct,year,mt,da,biller,amount,conf
 8187,2018,04,02,BCHydro20,197.63,Q8U8R9
 8187,2018,06,01,BCHydro20,168.26,H7H7W6
 8187,2018,08,02,BCHydro20,170.76,X5K3Q6
+8187,2018,10,04,BCHydro20,111.14,X5K3Q6
 8335,2016,10,26,Capital One Costco MasterCard,1693.11,X3J4R8,last four digits on account statements is 4336
 8335,2016,11,25,Capital One Costco MasterCard,1400.09,L2K8R2
 8335,2016,12,30,Capital One Costco MasterCard,1572.25,L7A4H5
@@ -1246,6 +1250,7 @@ acct,year,mt,da,biller,amount,conf
 8335,2018,06,22,Capital One Costco MasterCard,1059.91,R7K4J9
 8335,2018,07,23,Capital One Costco MasterCard,634.54,K7U7H6
 8335,2018,08,24,Capital One Costco MasterCard,496.62,L4J6Q8
+8335,2018,09,26,Capital One Costco MasterCard,1185.18,J2H5W5
 8339,2008,02,14,Wawanesa Magnolia,688.00,axis
 8339,2008,02,14,Wawanesa Magnolia,868.00,axis
 8339,2009,02,14,Wawanesa Magnolia,954.00,axis
@@ -1518,6 +1523,7 @@ acct,year,mt,da,biller,amount,conf
 8783,2018,03,06,RogersWirelessPager,2.10,Y6Z5U5
 8783,2018,04,03,RogersWirelessPager,27.30,Q8U8U7
 8783,2018,05,07,RogersWirelessPager,2.10,Q5A4J5
+8783,2018,10,04,RogersWirelessPager,18.90,J2H5W7
 8895,2012,04,09,PresidentsChoice,4483.76,8203
 8895,2012,05,11,PresidentsChoice,6888.17,X4L5X6
 8895,2012,06,07,PresidentsChoice,2096.92,
@@ -1624,6 +1630,7 @@ acct,year,mt,da,biller,amount,conf
 9345,2018,04,04,Citibank,15.67,X5J6R4,accidentally paid this twice
 9345,2018,05,25,Citibank,86.74,X7K3Q2
 9345,2018,08,27,Citibank,15.67,L4J5Z2
+9345,2018,09,26,Citibank,31.34,J2H5K9
 9728,2014,02,24,Amazon Canada,122.59,Q5W6X3
 9728,2014,04,14,Amazon Canada,104.22,R8J5X7
 9728,2014,05,15,Amazon Canada,68.82,L5Z8W4
