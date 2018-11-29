@@ -113,6 +113,10 @@ function itemCodeToDescription($ic)
     {
       return "Tenant Expenses";
     }
+  elseif ($ic=="LEX")
+    {
+      return "Landlord Expenses";
+    }
   elseif ($ic=="WFI")
     {
       return "Wifi";
