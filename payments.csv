@@ -2,6 +2,14 @@ Jose Bermeo starts renting September 1, 2017, month 213.
 
 month,rentid,name,amount
 =======,,,
+[229]
+2019-01,1024,saunders,1000
+2019-01,1031,tmchugh,
+=======,,,
+[228]
+2018-12,1024,saunders,2420.68
+2018-12,1031,tmchugh,3000
+=======,,,
 [227]
 2018-11,1024,saunders,2287.00 minus 168.00 for maintenance
 2018-11,1031,tmchugh,2967.14 plus 29.00 for internet
