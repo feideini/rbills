@@ -1,7 +1,8 @@
 <?php
 session_start();
 
-$host="ip-172-31-9-42.us-west-2.compute.internal";
+$host="ip-172-31-16-20.us-west-2.compute.internal";
+/* $host="ip-172-31-9-42.us-west-2.compute.internal"; */
 // $host="ip-172-31-9-42"; // Host name 
 $awsusername="ubuntu"; // Mysql username 
 $db_password="3senuf"; // Mysql password 
@@ -11,7 +12,7 @@ $tbl_name="login"; // Table name
 $username=$_SESSION['myusername'];
 if(!isset($_SESSION['myusername']))
   {
-    header("location:http://ec2-35-160-211-119.us-west-2.compute.amazonaws.com/lpublic/rbills/login.php");
+    header("location:http://ec2-52-35-217-154.us-west-2.compute.amazonaws.com/lpublic/rbills/login.php");
 }
 else
   {
@@ -291,7 +292,7 @@ $total=$total+$rentAmount;
 echo "</table>";
 $totalString=money_format("%!i",$total);
 echo "<p>The Total Payable is <font color=\"red\">\$$totalString</font>. Please make your cheque out to Stefan or Sherry Lukits. The due date is $nextMonthString-01.</p>";
-echo "<p><a href=\"http://ec2-35-160-211-119.us-west-2.compute.amazonaws.com/lpublic/rbills/logout.php\">log out</a></p>";
+echo "<p><a href=\"http://ec2-52-35-217-154.us-west-2.compute.amazonaws.com/lpublic/rbills/logout.php\">log out</a></p>";
 echo "</body>";
 echo "</html>";
   }

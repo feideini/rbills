@@ -1,7 +1,8 @@
 <?php
 session_start();
 ob_start();
-$host="ip-172-31-9-42.us-west-2.compute.internal";
+$host="ip-172-31-16-20.us-west-2.compute.internal";
+/* $host="ip-172-31-9-42.us-west-2.compute.internal"; */
 // $host="ip-172-31-9-42"; // Host name 
 $awsusername="ubuntu"; // Mysql username 
 $db_password="3senuf"; // Mysql password 
@@ -94,7 +95,8 @@ if($count === 1){
 // Register $myusername, $mypassword and redirect to file "login_success.php"
 $_SESSION["myusername"] = "$myusername";
 $_SESSION["mypassword"] = "$mypassword";
-  header("location:http://ec2-35-160-211-119.us-west-2.compute.amazonaws.com/lpublic/rbills/statement.php");
+  /* header("location:http://ec2-35-160-211-119.us-west-2.compute.amazonaws.com/lpublic/rbills/statement.php"); */
+  header("location:http://ec2-52-35-217-154.us-west-2.compute.amazonaws.com/lpublic/rbills/statement.php");
 }
 else {
 echo "Wrong Username or Password";

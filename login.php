@@ -1,7 +1,7 @@
 <html><head><title>Rental Bills</title></head><body>
 <table width="300" border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
 <tr>
-<form name="form1" method="post" action="http://ec2-35-160-211-119.us-west-2.compute.amazonaws.com/lpublic/rbills/check.php">
+<form name="form1" method="post" action="http://ec2-52-35-217-154.us-west-2.compute.amazonaws.com/lpublic/rbills/check.php">
 <td>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
 <tr>
