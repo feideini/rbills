@@ -1,7 +1,8 @@
 <?php
 session_start();
 ob_start();
-$host="ip-172-31-16-20.us-west-2.compute.internal";
+$host="localhost";
+// $host="ip-172-31-16-20.us-west-2.compute.internal";
 /* $host="ip-172-31-9-42.us-west-2.compute.internal"; */
 // $host="ip-172-31-9-42"; // Host name 
 $awsusername="ubuntu"; // Mysql username 
@@ -25,13 +26,13 @@ if ($mysqli->connect_errno) {
 // You do not want to reveal sensitive information
 
 // Let's try this:
-echo "Sorry, this website is experiencing problems.";
+// echo "Sorry, this website is experiencing problems.";
 
 // Something you should not do on a public site, but this example will show you
 // anyways, is print out MySQL error related information -- you might log this
-// echo "Error: Failed to make a MySQL connection, here is why: \n";
-// echo "Errno: " . $mysqli->connect_errno . "\n";
-// echo "Error: " . $mysqli->connect_error . "\n";
+echo "Error: Failed to make a MySQL connection, here is why: \n";
+echo "Errno: " . $mysqli->connect_errno . "\n";
+echo "Error: " . $mysqli->connect_error . "\n";
 
 // You might want to show them something nice, but we will simply exit
 exit;
