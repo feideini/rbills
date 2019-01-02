@@ -2,7 +2,6 @@
 session_start();
 
 $host="ip-172-31-16-20.us-west-2.compute.internal";
-/* $host="ip-172-31-16-20"; */
 /* $host="ip-172-31-9-42.us-west-2.compute.internal"; */
 // $host="ip-172-31-9-42"; // Host name 
 $awsusername="ubuntu"; // Mysql username 
@@ -26,7 +25,7 @@ if ($mysqli->connect_errno) {
 // You do not want to reveal sensitive information
 
 // Let's try this:
-echo "Sorry, this website is experiencing problems.";
+echo "Entschuldigung, this website is experiencing problems.";
 
 // Something you should not do on a public site, but this example will show you
 // anyways, is print out MySQL error related information -- you might log this
