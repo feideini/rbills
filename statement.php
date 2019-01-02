@@ -25,7 +25,7 @@ if ($mysqli->connect_errno) {
 // You do not want to reveal sensitive information
 
 // Let's try this:
-echo "Entschuldigung, this website is experiencing problems.";
+echo "Sorry, this website is experiencing problems.";
 
 // Something you should not do on a public site, but this example will show you
 // anyways, is print out MySQL error related information -- you might log this
