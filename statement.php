@@ -1,7 +1,8 @@
 <?php
 session_start();
 
-$host="ip-172-31-16-20.us-west-2.compute.internal";
+$host="localhost";
+/* $host="ip-172-31-16-20.us-west-2.compute.internal"; */
 /* $host="ip-172-31-9-42.us-west-2.compute.internal"; */
 // $host="ip-172-31-9-42"; // Host name 
 $awsusername="ubuntu"; // Mysql username 
